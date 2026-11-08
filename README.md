@@ -53,7 +53,21 @@ AI-MAM Core brings together experience in enterprise operations, risk, and produ
 <p align="center">
   <a href="https://ai-mam-core.pages.dev/"><strong>Discover AI-MAM Core →</strong></a>
 </p>
+## Get in Touch
 
+Interested in AI-MAM Core?
+
+We welcome conversations about:
+- Investment and startup acceleration
+- Strategic partnerships
+- Engineering collaboration
+- Early pilot opportunities
+
+**Email:** [Contact AI-MAM Core](mailto:EMAIL_ADDRESS)
+
+**Website:** https://ai-mam-core.pages.dev/
+
+**Founder:** Kenan Ergin
 ---
 
 <sub>This is a public product overview. The implementation and development history are privately maintained; this repository is not an open-source software release.</sub>
