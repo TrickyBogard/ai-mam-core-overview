@@ -44,30 +44,18 @@ Our initial focus is **software teams using AI coding agents**. The core is inte
 
 **Current stage:** The V1 core is in controlled validation. Selected behaviors have scoped local test evidence; integrated acceptance, packaging, and controlled-pilot readiness remain active engineering milestones.
 
-## Founder & collaboration
+## Founder & contact
 
 **Kenan Ergin — Founder & Product Architect**
 
 AI-MAM Core brings together experience in enterprise operations, risk, and product direction with AI-assisted development. We are exploring **engineering collaboration, grant and investment opportunities, and future controlled pilots**.
 
+For investment, partnership, engineering collaboration, or pilot inquiries, reach us at **[knnergn@gmail.com](mailto:knnergn@gmail.com)**.
+
 <p align="center">
   <a href="https://ai-mam-core.pages.dev/"><strong>Discover AI-MAM Core →</strong></a>
 </p>
-## Get in Touch
 
-Interested in AI-MAM Core?
-
-We welcome conversations about:
-- Investment and startup acceleration
-- Strategic partnerships
-- Engineering collaboration
-- Early pilot opportunities
-
-**Email:** [Contact AI-MAM Core](mailto:EMAIL_ADDRESS)
-
-**Website:** https://ai-mam-core.pages.dev/
-
-**Founder:** Kenan Ergin
 ---
 
 <sub>This is a public product overview. The implementation and development history are privately maintained; this repository is not an open-source software release.</sub>
