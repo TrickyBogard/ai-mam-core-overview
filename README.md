@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ai-mam-cover.svg" alt="AI-MAM Core — AI can act. Work should be verifiable." width="100%" />
+  <img src="assets/brand/GitHub_README_Banner.svg" alt="AI-MAM Core — AI can act. Work should be verifiable." width="100%" />
 </p>
 
 <h1 align="center">AI-MAM Core</h1>
